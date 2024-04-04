@@ -4,10 +4,12 @@ Sistem penghitungan gaji karyawan berdasarkan jabatan, status perkawinan, dan tu
 Sebuah perusahaan memiliki sistem penghitungan gaji karyawan berdasarkan jabatan, status perkawinan, dan tunjangan
 keluarga. Buatlah program sederhana menggunakan Python yang memungkinkan perusahaan tersebut menghitung gaji
 karyawan berdasarkan informasi yang diberikan.
+
 Program harus meminta input berupa:
 1. Nama karyawan
 2. Jabatan karyawan (Design/Programmer/Resource)
 3. Status perkawinan (Y/T)
+
 Aturan penghitungan gaji:
 Gaji pokok untuk Design adalah Rp 5.000.000 , Programmer adalah Rp 10.000.000 dan Resource Rp.5.000.000.
 Jika karyawan sudah menikah (status perkawinan = Y) :
